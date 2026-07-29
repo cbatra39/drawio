@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="R8blvnU_tqD6A4tNgSOS">
-    <mxGraphModel dx="2138" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
           <mxGeometry height="135.17" width="265.47" x="-613.35" y="165.42" as="geometry" />
         </mxCell>
         <mxCell id="sL9hEpOnEqMbaMQWPS6v-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="176" width="310" x="-584.48" y="584" as="geometry" />
+          <mxGeometry height="186" width="304.48" x="-584.48" y="584" as="geometry" />
         </mxCell>
         <mxCell id="sL9hEpOnEqMbaMQWPS6v-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Assumptions&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="-549.48" y="593" as="geometry" />
@@ -96,8 +96,8 @@
         <mxCell id="sL9hEpOnEqMbaMQWPS6v-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Private link" vertex="1">
           <mxGeometry height="30" width="110" x="220" y="548.4200000000001" as="geometry" />
         </mxCell>
-        <mxCell id="sL9hEpOnEqMbaMQWPS6v-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacing=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;0,1,0&quot;&gt;Azure OpenAI instance to be provisioned and managed under the client&#39;s existing enterprise Azure subscription.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;0,1,0&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot; style=&quot;font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 11pt;&quot;&gt;One email address with SMTP server details for sending notifications will be provided.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="190" width="312.27" x="-596.75" y="570" as="geometry" />
+        <mxCell id="sL9hEpOnEqMbaMQWPS6v-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacing=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;0,1,0&quot;&gt;Azure OpenAI instance to be provisioned and managed under the client&#39;s existing enterprise Azure subscription.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;0,1,0&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot; style=&quot;font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 11pt;&quot;&gt;One email address with SMTP server details for sending notifications will be provided.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;0,1,0&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 14.6667px; white-space: normal;&quot;&gt;&lt;font face=&quot;Calibri, sans-serif, serif, EmojiFont&quot;&gt;&#x9;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;0,1,0&quot;&gt;&lt;font face=&quot;Calibri, sans-serif, serif, EmojiFont&quot;&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot; style=&quot;font-size: 14.6667px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;0,1,0&quot;&gt;&lt;font face=&quot;Calibri, sans-serif, serif, EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;One URL domain to be whitelisted: complianceiafa.blob.core.windows.net&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="190" width="312.27" x="-600" y="587" as="geometry" />
         </mxCell>
         <mxCell id="m67mT7fPUEaAXg6i4syc-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/infrastructure/1/SMTP_Server.svg" value="" vertex="1">
           <mxGeometry height="70" width="59" x="23.92" y="335" as="geometry" />
