@@ -151,11 +151,13 @@
         <mxCell id="edge_ec2_rds" edge="1" parent="1" source="ec2_box" target="rds_mysql">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge_eb2_rds" edge="1" parent="1" source="app_service_2" target="rds_mysql">
+        <mxCell id="edge_eb2_rds" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="860" y="690" />
+              <mxPoint x="850.04" y="620" />
             </Array>
+            <mxPoint x="850.0388349514565" y="547" as="sourcePoint" />
+            <mxPoint x="690.572916666667" y="619.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="label_fetch_db" connectable="0" parent="edge_eb2_rds" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Fetches Database Values" vertex="1">
