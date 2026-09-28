@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="_EHERdiQqg3YPR278z2E">
-    <mxGraphModel dx="1084" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="468" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
           <mxGeometry height="48.5" width="42.17" x="665.7942682756698" y="446.5028397042412" as="geometry" />
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;strokeColor=light-dark(#eb0a1e, #ededed);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=default;textShadow=0;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="70" width="370" x="419.8842682756698" y="200.00283970424118" as="geometry" />
+          <mxGeometry height="70" width="403.62" x="373" y="200" as="geometry" />
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-127" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" value="" vertex="1">
           <mxGeometry height="30" width="27" x="450.55426827566976" y="212.00283970424118" as="geometry" />
@@ -156,7 +156,7 @@
           <mxGeometry height="37" width="37" x="401.2642682756698" y="210.00283970424118" as="geometry" />
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" value="&amp;nbsp;DevOps" vertex="1">
-          <mxGeometry height="30" width="60" x="386.2642682756698" y="244.00283970424118" as="geometry" />
+          <mxGeometry height="30" width="60" x="386.2642682756698" y="239.00283970424118" as="geometry" />
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-141" edge="1" parent="1" source="RJL5_LuarriyMfHEZ9vK-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RJL5_LuarriyMfHEZ9vK-105">
           <mxGeometry relative="1" as="geometry" />
