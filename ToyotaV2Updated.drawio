@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="_EHERdiQqg3YPR278z2E">
-    <mxGraphModel dx="896" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="792" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-95" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;strokeColor=light-dark(#eb0a1e, #ededed);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=default;textShadow=0;" value="" vertex="1">
           <mxGeometry height="332" width="240.34" x="1339.82426827567" y="655.1428397042412" as="geometry" />
-        </mxCell>
-        <mxCell id="RJL5_LuarriyMfHEZ9vK-96" edge="1" parent="1" source="RJL5_LuarriyMfHEZ9vK-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;" target="RJL5_LuarriyMfHEZ9vK-123">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;strokeColor=light-dark(#eb0a1e, #ededed);align=center;verticalAlign=middle;fontSize=12;fontColor=default;fillColor=default;textShadow=0;" value="" vertex="1">
           <mxGeometry height="230" width="180" x="1138.7142682756698" y="707.1428397042412" as="geometry" />
@@ -34,7 +31,7 @@
         <mxCell id="RJL5_LuarriyMfHEZ9vK-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;textShadow=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=12;" value="Backend App Service" vertex="1">
           <mxGeometry height="30" width="90" x="1495.8042682756698" y="846.1428397042412" as="geometry" />
         </mxCell>
-        <mxCell id="RJL5_LuarriyMfHEZ9vK-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;" value="Azure Synapse Analytics (Dedicated SQL Pool)" vertex="1">
+        <mxCell id="RJL5_LuarriyMfHEZ9vK-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;" value="Azure Synapse Analytics (Dedicated SQL Pool - CCM)" vertex="1">
           <mxGeometry height="30" width="99.75" x="1153.84426827567" y="884.1428397042412" as="geometry" />
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-103" edge="1" parent="1" source="RJL5_LuarriyMfHEZ9vK-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.529;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" target="RJL5_LuarriyMfHEZ9vK-99">
@@ -156,10 +153,10 @@
           <mxGeometry height="30" width="60" x="1225.59426827567" y="612.1428397042412" as="geometry" />
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-139" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" value="" vertex="1">
-          <mxGeometry height="37" width="37" x="907.9742682756698" y="581.1428397042412" as="geometry" />
+          <mxGeometry height="37" width="37" x="919.9742682756698" y="581.1428397042412" as="geometry" />
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" value="&amp;nbsp;DevOps" vertex="1">
-          <mxGeometry height="30" width="60" x="892.9742682756698" y="615.1428397042412" as="geometry" />
+          <mxGeometry height="30" width="60" x="904.9742682756698" y="615.1428397042412" as="geometry" />
         </mxCell>
         <mxCell id="RJL5_LuarriyMfHEZ9vK-141" edge="1" parent="1" source="RJL5_LuarriyMfHEZ9vK-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RJL5_LuarriyMfHEZ9vK-105">
           <mxGeometry relative="1" as="geometry" />
@@ -284,7 +281,10 @@
         <mxCell id="RJL5_LuarriyMfHEZ9vK-181" edge="1" parent="1" source="RJL5_LuarriyMfHEZ9vK-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RJL5_LuarriyMfHEZ9vK-179" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RJL5_LuarriyMfHEZ9vK-182" edge="1" parent="1" source="RJL5_LuarriyMfHEZ9vK-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.957;entryDx=0;entryDy=0;" target="RJL5_LuarriyMfHEZ9vK-97" value="">
+        <mxCell id="RJL5_LuarriyMfHEZ9vK-182" edge="1" parent="1" source="RJL5_LuarriyMfHEZ9vK-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" target="RJL5_LuarriyMfHEZ9vK-106" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RJL5_LuarriyMfHEZ9vK-96" edge="1" parent="1" source="RJL5_LuarriyMfHEZ9vK-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;textShadow=0;fontSize=12;" target="RJL5_LuarriyMfHEZ9vK-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
