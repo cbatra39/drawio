@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="AWS Architecture" id="aws-migration-01">
-    <mxGraphModel dx="624" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
         <mxCell id="yVlj9FIDB3-COSlu7i4p-98" edge="1" parent="1" source="yVlj9FIDB3-COSlu7i4p-76" target="yVlj9FIDB3-COSlu7i4p-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="881.1817959872155" y="750.181807084517" />
+              <mxPoint x="880" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
