@@ -41,10 +41,10 @@
           <mxGeometry height="30" width="102" x="129" y="377.5" as="geometry" />
         </mxCell>
         <mxCell id="bOfa0jx1GrN8xuS-_Sup-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span&gt;API Request&amp;nbsp;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="222" x="237" y="310" as="geometry" />
+          <mxGeometry height="30" width="222" x="208" y="310" as="geometry" />
         </mxCell>
         <mxCell id="bOfa0jx1GrN8xuS-_Sup-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span&gt;API Response&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="201" x="208" y="340" as="geometry" />
+          <mxGeometry height="30" width="201" x="218.5" y="347.5" as="geometry" />
         </mxCell>
         <mxCell id="bOfa0jx1GrN8xuS-_Sup-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.652;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.966;exitY=0.536;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
